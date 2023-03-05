@@ -57,7 +57,7 @@ Versi terbaru dari Debian adalah Debian 11 "Bullseye", yang dikeluarkan pada tan
 
 Untuk mensetting repository pada Linux, ikuti langkah-langkah berikut:
 1.	Buka terminal pada sistem Linux Anda.
-2.	Jalankan perintah `sudo nano /etc/apt/sources.list` untuk membuka file sources.list. ![](img/sources_list.png)
+2.	Jalankan perintah `sudo nano /etc/apt/sources.list` untuk membuka file sources.list. ![](img/sources_list.PNG)
 3.	Cari baris yang berisi informasi repository yang ingin Anda tambahkan atau ubah. Baris tersebut akan terlihat seperti `<deb <http://example.com/ubuntu> bionic main>`.
 4.	Jika ingin menambahkan repository baru, tambahkan baris baru dengan format `<deb <http://example.com/ubuntu> bionic main>`. Ganti http://example.com/ubuntu dengan URL repository yang ingin Anda tambahkan, dan ganti bionic dengan nama versi distribusi Linux yang Anda gunakan.
 5.	Jika ingin mengubah repository yang sudah ada, ubah baris yang sudah ada dengan URL repository yang baru.
@@ -91,7 +91,7 @@ Berikut adalah contoh instalasi Midnight Commander (mc) di Ubuntu:
 4.	Setelah instalasi selesai, jalankan perintah mc untuk memulai Midnight Commander.
 
 Setelah Midnight Commander terbuka, Anda dapat menggunakan antarmuka teksnya untuk menjelajahi dan mengelola berkas dan direktori pada sistem Anda.
-![](img/mc.png)
+![](img/mc.PNG)
 
 #### TOOLS NET-TOOLS
 
@@ -104,7 +104,7 @@ Untuk menginstal net-tools pada Linux, Anda dapat mengikuti langkah-langkah beri
 5.	Setelah instalasi selesai, Anda dapat menggunakan utilitas net-tools seperti ifconfig, route, dan netstat untuk memeriksa dan mengkonfigurasi koneksi jaringan pada sistem Anda.
 
 Setelah menginstal net-tools, Anda dapat memeriksa dan mengkonfigurasi koneksi jaringan pada sistem Anda menggunakan utilitas net-tools seperti yang dijelaskan di atas.
-![](img/netstat.png)
+![](img/netstat.PNG)
 
 #### TOOLS HTOP
 
@@ -117,5 +117,5 @@ Untuk menginstal HTOP pada Linux Ubuntu, ikuti langkah-langkah berikut:
 5.	Setelah instalasi selesai, Anda dapat menjalankan perintah htop pada terminal untuk melihat dan mengelola proses yang sedang berjalan pada sistem Anda.
 
 Setelah menginstal HTOP, Anda dapat menggunakan alat ini untuk memonitor dan mengelola kinerja sistem Linux Anda.
-![](img/htop.png)
+![](img/htop.PNG)
 
