@@ -20,7 +20,7 @@ Dengan dst address diisi dengan network address pc yang ingin dituju, gateway di
 
 Hal pertama yang harus dilakukan adalah menambahkan "contrib" dan "non-free" components di /etc/apt/sources.list.
 
-![](img/dependency-virtualbox.jpeg)
+![](img/depedency_virtualbox.jpeg)
 
 kemudian melakukan 
 > sudo apt update
