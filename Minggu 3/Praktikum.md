@@ -34,22 +34,22 @@ Install virtualbox dengan menggunakan petunjuk yang ada pada debian copy virtual
 Ketika sudah menginstall virtualbox, setting virtual machine untuk menginstall ubuntu yang sudah disiapkan
 
  - Beri nama virtual machine dan OS yang akan diinstall
-![](img/vm_name)
+![](img/vm_name.jpeg)
 
 - Tentukan jumlah memori dan yang digunakan untuk virtual OS
-![](img/memory)
+![](img/memory.jpeg)
 
 - Tentukan jumlah storage dan yang digunakan untuk virtual OS
-![](img/disk)
+![](img/disk.jpeg)
 
 - Masukkan username dan password untuk membuat user baru
-![](img/create_ubuntu_user)
+![](img/create_ubuntu_user.jpeg)
 
 ### Ubuntu
 
 Setelah install virtualbox dan setting virtual machine, install OS ubuntu pada virtual machine yang sudah dibuat. Berikut tampilan awal OS Ubuntu setelah diinstall.
 
-![](img/ubuntu)
+![](img/ubuntu.jpeg)
 
 
 
